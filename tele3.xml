@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<teleselskaber>
+  <selskab id="1">
+    <navn>Yousee</navn>
+	<kunder>450000</kunder>
+	<hastighed>150</hastighed>
+  </selskab>
+  <selskab id="2">
+    <navn>Telia</navn>
+	<kunder>150000</kunder>
+	<hastighed>135</hastighed>
+  </selskab>
+  <selskab id="3">
+    <navn>Duka</navn>
+	<kunder>50000</kunder>
+	<hastighed>50</hastighed>
+  </selskab>
+  <selskab id="4">
+    <navn>Duka</navn>
+	<kunder>135000</kunder>
+	<hastighed>75</hastighed>
+  </selskab>
